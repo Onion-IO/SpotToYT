@@ -40,7 +40,7 @@ To run SpotToYT, do the following:
 
 **Made by Onion-IO**
 
-- [Discord] <p>onion&#127783;#7700<p>
+- [Discord] <p>onion#7700<p>
 
 
 ##
