@@ -32,9 +32,11 @@ To run SpotToYT, do the following:
 
 - Python
 
-## Future Updates
+## Known Issues
 
-- More polished GUI
+- GUI Is buggy at times. Force restart
+- Almost no errors are caught, due to the extensive number of potential catches in the spotify / google API.
+- No mac optimization. Compatibility unknown.
 
 ## Author
 
